@@ -301,7 +301,7 @@ graph LR
 
 ### 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-tasheen2002.vercel.app/api/spotify)][(https://open.spotify.com/user/yourusername](https://open.spotify.com/user/31xsgdboaepgux3ee5sh4nzw7wgq))
+[![Spotify](https://novatorem-tasheen2002.vercel.app/api/spotify)][(https://open.spotify.com/user/31xsgdboaepgux3ee5sh4nzw7wgq](https://open.spotify.com/user/31xsgdboaepgux3ee5sh4nzw7wgq))
 
 </div>
 
