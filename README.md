@@ -285,7 +285,7 @@ graph LR
 
 **Let's build something amazing together!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tasheen-darshika-6bb7ba250/))
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tasheen-darshika-6bb7ba250/])
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshikatasheen99@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
