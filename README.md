@@ -1,18 +1,11 @@
 ## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tasheen2002&theme=dark" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Tasheen2002&theme=dark)
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasheen2002&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasheen2002&show_icons=true&theme=dark" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasheen2002&layout=compact&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasheen2002&layout=compact&theme=dark" />
-</p>
 
 ## Hi there 👋 I'm Tasheen
 
