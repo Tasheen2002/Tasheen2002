@@ -19,6 +19,48 @@ I focus on writing clean code, implementing domain-driven design principles, and
 
 ---
 
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Frontend Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+
+### Backend Development
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+
+### Databases & ORM
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+
+### Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+### Architecture & Practices
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/Modular_Architecture-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white" alt="Modular Architecture"/>
+<img src="https://img.shields.io/badge/Domain_Driven_Design-4A90E2?style=for-the-badge&logo=ddd&logoColor=white" alt="DDD"/>
+
+</div>
+
+---
+
 ## Featured Projects
 
 ### Professional & Enterprise Projects
@@ -83,39 +125,16 @@ I focus on writing clean code, implementing domain-driven design principles, and
 
 ---
 
-## Technical Skills
-
-**Languages**  
-JavaScript, TypeScript, Java, PHP
-
-**Frontend**  
-React, Next.js, HTML5, CSS3
-
-**Backend**  
-Node.js, Express.js, Spring Boot
-
-**Databases & ORM**  
-PostgreSQL, MySQL, MongoDB, Prisma
-
-**Tools & Platforms**  
-Git, Postman, Swagger, VS Code, Docker
-
-**Architecture & Practices**  
-- Modular Monolithic Architecture
-- Domain-Driven Design (DDD)
-- RESTful API Design
-- Clean Code Principles
-- Type-Safe Development
-
----
-
 ## Currently Learning
 
-- Advanced System Design & Architecture Patterns
-- Go Programming Language
-- Microservices Architecture
-- Cloud Platforms (AWS/Azure)
-- DevOps Practices & CI/CD
+<div align="center">
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=design&logoColor=white" alt="System Design"/>
+
+</div>
 
 ---
 
