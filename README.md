@@ -151,18 +151,6 @@ University of Kelaniya | 2022 - Present
 
 <div align="center">
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasheen2002&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasheen2002&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 ### 💼 Open to Opportunities
 
 I'm actively seeking **Associate Software Engineer** positions where I can contribute to building scalable, well-architected systems while continuing to grow as a developer.
