@@ -92,20 +92,13 @@ I focus on writing clean code, implementing domain-driven design principles, and
 
 ### Academic & Team Projects
 
-**Fuel Master** (Group Project)  
+**[Fuel Master →](https://github.com/HasinthakaPiyumal/fuel-master)** (Group Project)  
 *Full-Stack Development*
 
 - Fuel management system for fleet operations
 - Vehicle tracking and fuel consumption analytics
 - Multi-user role-based access control
 - Report generation for operational insights
-
-**Sports Store E-Commerce** (Group Project)  
-*PHP, MySQL*
-
-- Server-side e-commerce platform for sports equipment
-- Product catalog and shopping cart functionality
-- Admin dashboard for inventory management
 
 ### Mobile Applications
 
